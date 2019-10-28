@@ -1,22 +1,10 @@
+string = 'Python Programming at General Assembly is Awesome!!'
 spaces = 0
 
-for char in ('Python Programming at General Assembly is Awesome!!'):
+for char in string:
     if char == ' ':
 
         spaces += 1
 
-        print (spaces)
+print (spaces)
 
-'''
-
-phrase = ''
-
-for char in ('Python Programming at General Assembly is Awesome!!'):
-    if char == ' ' or char =='s' or char == 'm':
-        print ('')
-    else:
-        phrase += char
-
-        print (phrase)
-
-'''

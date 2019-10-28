@@ -8,5 +8,6 @@ for num in range (1000,10001):
     if num % 2 == 0:
         total += num
     
-        print (f'the sum of even numbers between 1000 and 10000 is: {total}')
+print (f'the sum of even numbers between 1000 and 10000 is: {total}')
 
+#also acceptable print('The sum of even numbers between 1000 and 10,000 is', even_number_total)
