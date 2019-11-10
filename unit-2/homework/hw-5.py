@@ -15,11 +15,28 @@ for num in temperature_readings:
         pos_list_total += num 
     else:
         neg_list.append(num)
-        neg_list_total -= num
+        neg_list_total += num
     
 
 print(f'the average of positive readings: {pos_list_total / len(pos_list)}')
 print(f'the average of negative readings: {neg_list_total / len(neg_list)}')
 
-print(neg_list_total)
-print(pos_list_total)
+'''
+princeton solution
+
+positive_sum = 0
+negative_sum = 0
+positive_count = 
+negative_count = 
+
+for reading in temperature_readings:
+    if reading > 0:
+        positive_sum += reading
+        positive_count += 1
+    else:
+        negative_sum += reading
+        negative_count += 1
+
+print(f'the average of positive readings: {positive_sum / positive_count')
+print(f'the average of negative readings: {negative_sum / negative_count')
+'''
