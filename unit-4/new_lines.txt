@@ -1,0 +1,2 @@
+lines for my new file
+new file should have new line as well

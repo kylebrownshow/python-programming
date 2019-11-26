@@ -1,0 +1,56 @@
+{
+    "class": "cohort 4",
+    "start": "2019-10-16",
+    "end": "2019-12-18",
+    "students": [
+        {
+            "name": "Daniela",
+            "job": "finance"
+        },
+        {
+            "name": "Emma",
+            "job": "accounting"
+        },
+        {
+            "name": "kyle",
+            "job": "research"
+        },
+        {
+            "name": "julian",
+            "job": "coder"
+        },
+        {
+            "name": "allaina",
+            "job": "secret agent"
+        },
+        {
+            "name": "chizea",
+            "job": "student"
+        },
+        {
+            "name": "keerthi",
+            "job": "lawyer"
+        },
+        {
+            "name": "afira",
+            "job": "competitive rubix cube solver"
+        },
+        {
+            "name": "christina",
+            "job": "contract killer"
+        },
+        {
+            "name": "connor",
+            "job": "sandwich maker"
+        },
+        {
+            "name": "sahil",
+            "job": "smooth criminal"
+        },
+        {
+            "name": "shilaj",
+            "job": "too old for this shit"
+        }
+
+    ] 
+}

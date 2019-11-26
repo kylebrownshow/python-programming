@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Labyrinth",
+        "genre": "Fantasy",
+        "running_time": 101,
+        "movie_cast": [
+            {
+                "actor": "Jennifer Connelly"
+            },
+            {
+                "actor": "David Bowie"
+            },
+            {
+                "actor": "Toby Froud"
+            },
+            {
+                "actor": "Brian Henson"
+            }
+
+        ] 
+    },{
+        "title": "The Dark Crystal",
+        "genre": "Fantasy",
+        "running_time": 93,
+        "movie_cast": [
+            {
+                "actor": "Jim Henson"
+            },
+            {
+                "actor": "Jerry Nelson"
+            },
+            {
+                "actor": "Frank Oz"
+            },
+            {
+                "actor": "Dave Goelz"
+            }
+
+        ] 
+    },{
+        "title": "Little Shop of Horrors",
+        "genre": "Sci-Fi",
+        "running_time": 104,
+        "movie_cast": [
+            {
+                "actor": "Ellen Greene"
+            },
+            {
+                "actor": "Rick Moranis"
+            },
+            {
+                "actor": "Steve Martin"
+            },
+            {
+                "actor": "Levi Stubbs"
+            }
+        ]
+    },{
+        "title": "Parenthood",
+        "genre": "Comedy Drama",
+        "running_time": 124,
+        "movie_cast": [
+            {
+                "actor": "Joaquin Phoenix"
+            },
+            {
+                "actor": "Keanu Reeves"
+            },
+            {
+                "actor": "Steve Martin"
+            },
+            {
+                "actor": "Rick Moranis"
+            }
+        ]
+    }
+]
